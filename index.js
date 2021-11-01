@@ -16,4 +16,4 @@ function wrapAdjective(p1 = "*") {
     } 
 }
 
-wrapAdjective("*")("not good at this");
+// wrapAdjective("*")("not good at this");
